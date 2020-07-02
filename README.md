@@ -14,8 +14,11 @@ you can view in [NBViewer(1)](https://nbviewer.jupyter.org/github/pedrohenriquec
 ## Project Description
 <p align="justify"> 
     In this project I developed a sentiment analyzer for Brazilian tweets using NLP (natural language processing) with Python. 
-    For more information you can access this [link](https://docs.google.com/presentation/d/1tMN6js8vKuxZ-2xU5k7tKwCqmlfvwRGgSQXX8cHAnAU/edit?usp=sharing) that there a presentation slide of this project. But if you is more interested in this other [link](https://drive.google.com/file/d/1fO6Pm34MDAazzn9N-2lqZE5Gorz4LjD6/view?usp=sharing) there an article that details the project more.
 </p>
+
+<br/>
+For more information you can access this [link](https://docs.google.com/presentation/d/1tMN6js8vKuxZ-2xU5k7tKwCqmlfvwRGgSQXX8cHAnAU/edit?usp=sharing) that there a presentation slide of this project. 
+But if you is more interested in this other [link](https://drive.google.com/file/d/1fO6Pm34MDAazzn9N-2lqZE5Gorz4LjD6/view?usp=sharing) there an article that details the project more.
 
 
 
