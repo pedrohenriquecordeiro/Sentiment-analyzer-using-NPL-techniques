@@ -36,9 +36,9 @@ you can view in [NBViewer](https://nbviewer.jupyter.org/github/pedrohenriquecord
 
 :round_pushpin: LinearSVC
 
-:round_pushpin: (TF-IDF (frequency–inverse document frequency))[https://en.wikipedia.org/wiki/Tf%E2%80%93idf]
+:round_pushpin: [TF-IDF (frequency–inverse document frequency)](https://en.wikipedia.org/wiki/Tf%E2%80%93idf)
 
-:round_pushpin: (N-GRAMS)[https://en.wikipedia.org/wiki/N-gram]
+:round_pushpin: [N-GRAMS](https://en.wikipedia.org/wiki/N-gram])
 
 ## Dependencies
 - [NLTK](https://jupyter.org/)
@@ -51,11 +51,11 @@ you can view in [NBViewer](https://nbviewer.jupyter.org/github/pedrohenriquecord
 ## How run it :arrow_forward:
 At cmd or terminal, clone this project:
 ```
-> git clone https://github.com/pedrohenriquecordeiro/Sentiment-analyzer-using-NPL-techniques.git
+> git clone https://github.com/pedrohenriquecordeiro/sentiment-analyzer-using-NPL-techniques.git
 ```
 Enter into folder:
 ```
-> cd Sentiment-analyzer-using-NPL-techniques
+> cd sentiment-analyzer-using-NPL-techniques
 ```
 Install the dependencies:
 ```
