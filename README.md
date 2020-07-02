@@ -1,5 +1,5 @@
 :warning: If you have problems to see the file ipynb, 
-you can view in [NBViewer](https://nbviewer.jupyter.org/github/pedrohenriquecordeiro/deep_learning_classification_garments/blob/master/notebook.ipynb) :warning:
+you can view in [NBViewer - 1](https://nbviewer.jupyter.org/github/pedrohenriquecordeiro/sentiment-analyzer-using-NLP-techniques/blob/master/1_exploring_notebook.ipynb)[NBViewer - 2](https://nbviewer.jupyter.org/github/pedrohenriquecordeiro/sentiment-analyzer-using-NLP-techniques/blob/master/2_transform_notebook.ipynb)[NBViewer - 3](https://nbviewer.jupyter.org/github/pedrohenriquecordeiro/sentiment-analyzer-using-NLP-techniques/blob/master/3_classification_notebook.ipynb) :warning:
 
 <br/>
 
@@ -9,7 +9,7 @@ you can view in [NBViewer](https://nbviewer.jupyter.org/github/pedrohenriquecord
 
 
 # Sentiment Analyzer using Natural Language Processing
-
+<img src="https://user-images.githubusercontent.com/29979127/86411825-0e573780-bc94-11ea-925d-b93b13d8e8c9.png" width=450/>
 
 ## Project Description
 <p align="justify"> 
