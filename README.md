@@ -1,11 +1,11 @@
 :warning: If you have problems to see the file ipynb, 
-you can view in [NBViewer - 1](https://nbviewer.jupyter.org/github/pedrohenriquecordeiro/sentiment-analyzer-using-NLP-techniques/blob/master/1_exploring_notebook.ipynb)[NBViewer - 2](https://nbviewer.jupyter.org/github/pedrohenriquecordeiro/sentiment-analyzer-using-NLP-techniques/blob/master/2_transform_notebook.ipynb)[NBViewer - 3](https://nbviewer.jupyter.org/github/pedrohenriquecordeiro/sentiment-analyzer-using-NLP-techniques/blob/master/3_classification_notebook.ipynb) :warning:
+you can view in [NBViewer(1)](https://nbviewer.jupyter.org/github/pedrohenriquecordeiro/sentiment-analyzer-using-NLP-techniques/blob/master/1_exploring_notebook.ipynb) - [NBViewer(2)](https://nbviewer.jupyter.org/github/pedrohenriquecordeiro/sentiment-analyzer-using-NLP-techniques/blob/master/2_transform_notebook.ipynb) - [NBViewer(3)](https://nbviewer.jupyter.org/github/pedrohenriquecordeiro/sentiment-analyzer-using-NLP-techniques/blob/master/3_classification_notebook.ipynb) :warning:
 
 <br/>
 
 <img src="http://img.shields.io/static/v1?label=License&message=MIT&color=green&style=for-the-badge"/>
 <img src="https://img.shields.io/static/v1?label=Python&logoColor=white&message=NLTK&color=yellow&style=for-the-badge&logo=Python"/>
-<img src="http://img.shields.io/static/v1?label=STATUS&message=PROGRESS&color=RED&style=for-the-badge"/>
+<img src="http://img.shields.io/static/v1?label=STATUS&message=DONE&color=RED&style=for-the-badge"/>
 
 
 # Sentiment Analyzer using Natural Language Processing
