@@ -30,22 +30,23 @@ you can view in [NBViewer](https://nbviewer.jupyter.org/github/pedrohenriquecord
 :round_pushpin: Callback: to supervise model training and create checkpoints
 
 ## Dependencies
-- [Tensorflow](https://www.tensorflow.org/api_docs)
-- [Jupyter Notebook](https://jupyter.org/)
+- [NLTK](https://jupyter.org/)
+- [Pandas](https://www.tensorflow.org/api_docs)
 - [Matplotlib](https://matplotlib.org/)
+- [Jupyter Notebook](https://jupyter.org/)
 
 ## How run it :arrow_forward:
 At cmd or terminal, clone this project:
 ```
-> git clone https://github.com/pedrohenriquecordeiro/deep_learning_classification_garments.git
+> git clone https://github.com/pedrohenriquecordeiro/Sentiment-analyzer-using-NPL-techniques.git
 ```
 Enter into folder:
 ```
-> cd deep_learning_classification_garments
+> cd Sentiment-analyzer-using-NPL-techniques
 ```
 Install the dependencies:
 ```
-> pip install jupyter && pip install tensorflow && pip install matplotlib
+> pip install jupyter && pip install statistics && pip install pandas && pip install nltk && pip install unidecode && pip install re && pip install wordcloud
 ```
 Start Jupyter Notebook:
 ```
